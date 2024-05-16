@@ -1,7 +1,7 @@
 # scssVScss 
 
 #### SCSS (Sassy CSS) is a superset of CSS, meaning it extends CSS with additional features like variables, mixins, inheritance, nesting, and more.
-### npm install -D sass
+### To use SCSS - npm install -D sass
 
 1. Variables: We can reuse them-
   ``` Typescript
